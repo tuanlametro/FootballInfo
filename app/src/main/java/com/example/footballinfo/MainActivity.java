@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
     @Override
     public void onNothingSelected(AdapterView<?> arg0) {
-// TODO Auto-generated method stu
+// TODO Auto-generated method stub
 
     }
 }
