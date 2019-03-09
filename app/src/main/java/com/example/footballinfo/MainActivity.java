@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
     String[] clubsName={"Select Club","Liverpool","Manchester City","Chelsea","Arsenal","Manchester United"};
-    String[] players={"Select Player","Roberto Fermino","Mohomed Salah ","James Milner","Sadio Mane","Jordon Henderson"};
+    String[] players={"Select Player","Trent Alexander-Arnold", "Fabinho", "Roberto Firmino", "Joe Gomez", "Jordan Henderson", "Adam Lallana", "Dejan Lovren", "Sadio Mane", "Joel Matip", "Simon Mignolet", "James Milner", "Alberto Moreno", "Sheyi Ojo", "Divock Origi", "Alex Oxlade-Chamberlain", "Connor Randall", "Andy Robertson", "Mohammed Salah", "Xherdan Shaqiri", "Daniel Sturridge", "Virgil van Dijk", "Georginio Wijnaldum", "Ben Woodburn"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
