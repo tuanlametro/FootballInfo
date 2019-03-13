@@ -10,7 +10,7 @@ public class PlayerList {
     public static PlayerList getInstance() {
         return ourInstance;
     }
-    // Creating players Arraylist and adding data
+    // Creating player Arraylist and adding data
     private List<Player> players;
     public void add()
     {
